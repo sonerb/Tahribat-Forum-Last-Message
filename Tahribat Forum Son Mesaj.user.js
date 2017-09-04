@@ -4,6 +4,7 @@
 // @version      1.0
 // @description  Anasayfada bulunan "Aktif Konular" kısmında son sayfaya gitmek için kullanılır.
 // @author       pSkpt
+// @icon         https://www.tahribat.com/favicon.ico
 // @match        *://www.tahribat.com/*
 // @grant        none
 // ==/UserScript==
